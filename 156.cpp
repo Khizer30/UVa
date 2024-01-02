@@ -7,17 +7,17 @@ using namespace std;
 
 map<int, int> createMap(string word)
 {
-	map<int, int> bitmask;
+	map<int, int> temp;
 
 	for (char c : word)
 	{
 		c = tolower(c);
 		int index = c - 'a';
 
-		bitmask[index]++;
+		temp[index]++;
 	}
 
-	return bitmask;
+	return temp;
 }
 
 int main()
