@@ -1,31 +1,39 @@
-462
-10646
-12247
+Super Easy
+11172
+11498
+11727
 
-278
-696
-10284
+Easy
+10114
+11559
+11799
 
-10443
-10813
+Medium
+573
+10141
+11507
 
-10945
-11221
+Easy Games
+489
+10189
+11459
 
-195
-454
+Hard Games
+584
 
-637
-10812
+Palindrome
+401
 
-403
+Anagram
+156
+
+Easy Life Problems
+161
+
+Hard Life Problems
 608
-1061
 
+Time
 579
-893
-11947
 
-556
-12060
-12085
+Time Waster
